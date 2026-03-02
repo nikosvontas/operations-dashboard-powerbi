@@ -1,7 +1,7 @@
 # Operations Performance Dashboard – Certification Project
 
 ## Project Overview
-This dashboard was developed as part of the DavidsonX Power BI certification coursework using Microsoft Power BI.
+This dashboard was developed as part of the DavidsonX Power BI certification coursework at the edx platform using Microsoft Power BI.
 
 ## Tools Used
 - Microsoft Power BI
